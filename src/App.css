@@ -1,0 +1,17 @@
+.LikeButton {
+  display: inline-block;
+}
+.LikeButton > button {
+  width: 100px;
+  height: 30px;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ClickablePicture,
+.Dice {
+  height: 100px;
+  width: 100px;
+}
